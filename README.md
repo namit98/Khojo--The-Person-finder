@@ -58,7 +58,7 @@ img_thumb_bboxed = draw_bbox(img_thumb, bbox_thumb)
 
 ### Demo 01 : detect
 ```
-python demo_detect.py
+python d_detect.py
 ```
 ![](selfie_demo.png)
 
@@ -72,7 +72,7 @@ Note that it shows bounding boxes only for default scale image *without image py
 
 ### Demo 02 : crop
 ```
-python demo_crop.py
+python d_crop.py
 ```
 
 ![](bts_demo.png)
